@@ -1,4 +1,4 @@
-###Vehicle Control System
+Vehicle Control System
 1. Ask the user if he/she wants
 a. Turn on the vehicle engine
 b. Turn off the vehicle engine
